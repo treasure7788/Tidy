@@ -23,7 +23,7 @@
 Download `tidy.py` directly into your project or somewhere on your system `PATH`:
 
 ```bash
-curl -O https://raw.githubusercontent.com/<your-username>/tidy/main/tidy.py
+curl -O https://raw.githubusercontent.com/treasure7788/tidy/main/tidy.py
 chmod +x tidy.py
 ```
 
