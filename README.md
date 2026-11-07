@@ -2,7 +2,6 @@
 
 **Tidy** is a lightweight, interactive command-line utility that renames and organizes your files based on plain-language instructions. It requires **Python 3.8+** and uses only the Python standard library with zero external dependencies.
 
-> **GitHub Description:** A zero-dependency Python CLI tool that renames and organizes files using natural language instructions and your choice of AI model (OpenAI, Anthropic, OpenRouter, or local Ollama).
 
 ---
 
